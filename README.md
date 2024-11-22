@@ -1,20 +1,46 @@
-# Halo semua! 
+# 🌟 Halo Semua! 
 
-Perkenalkan nama saya **Muhammad Alif Leo**.<br>
+Perkenalkan nama saya **Muhammad Alif Leo**.  
+Saya seorang **Mahasiswa** di Universitas Negeri Makassar, dengan Jurusan **Teknik Informatika dan Komputer**. 🎓
 
-Saya seorang **Mahasiswa** di Universitas Negeri Makassar.<br>
+## ✨ Tentang Saya:
+- 📚 **Penerima Beasiswa Bank Indonesia** dua kali berturut-turut.  
+- 🏆 **Pengurus Inti** komunitas penerima beasiswa Bank Indonesia UNM, yang dikenal dengan [GenBI](https://www.instagram.com/p/C-xa5_WyMcl/?img_index=6).  
 
-Saya Seorang Penerima Beasiswa Bank Indonesia.<br>
+💬 Jika ingin mengenal saya lebih jauh, jangan ragu untuk terhubung melalui [LinkedIn](https://www.linkedin.com/in/muhammad-alif-leo-6b3533231/).
 
-Saya juga Termasuk Kedalam Pengurus inti sebuah Komunitas Penerima beasiswa Bank Indonesia UNM, yang disebut [GenBI](https://www.instagram.com/p/C-xa5_WyMcl/?img_index=6).<br>
+---
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-alif-leo-6b3533231/)ku ya.
+## 🔧 Teknologi & Keahlian:
+- **Bahasa Pemrograman**: Kotlin , HTML/CSS  
+- **Frameworks/Tools**: Android Studio , Canva  
+- **Keahlian Tambahan**: Kepemimpinan, Manajemen Proyek, dan Kolaborasi Tim  
+
+---
+
+## 📊 Statistik GitHub Saya:
 
 <p align="left">
 <a href="https://github.com/ALIF0213">
+  <!-- Kartu Profil -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALIF0213&theme=algolia" /> 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALIF0213&theme=algolia"/>
+
+  <!-- Statistik GitHub -->
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ALIF0213&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+  <!-- Bahasa Teratas -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ALIF0213&theme=algolia"/>
+  
+  <!-- Streak -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ALIF0213&theme=algolia" />
 </a>
 </p>
+
+---
+
+## 📫 Hubungi Saya:
+📩 Email: [muhammadalifleo@gmail.com](mailto:muhammadalifleo@gmail.com) 
+
+---
+
+🌟 Terima kasih telah mengunjungi profil saya! Jangan lupa ⭐ repository saya jika Anda merasa bermanfaat. 😊
