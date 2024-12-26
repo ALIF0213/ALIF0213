@@ -3,10 +3,6 @@
 Perkenalkan nama saya **Muhammad Alif Leo**.  
 Saya seorang **Mahasiswa** di Universitas Negeri Makassar, dengan Jurusan **Teknik Informatika dan Komputer**. 🎓
 
-## ✨ Tentang Saya:
-- 📚 **Penerima Beasiswa Bank Indonesia** dua kali berturut-turut.  
-- 🏆 **Pengurus Inti** komunitas penerima beasiswa Bank Indonesia UNM, yang dikenal dengan [GenBI](https://www.instagram.com/p/C-xa5_WyMcl/?img_index=6).  
-
 💬 Jika ingin mengenal saya lebih jauh, jangan ragu untuk terhubung melalui [LinkedIn](https://www.linkedin.com/in/muhammad-alif-leo-6b3533231/).
 
 ---
